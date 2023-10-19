@@ -1,1 +1,1 @@
-[![Build status](http://localhost/api/projects/status/uwgnuhk19f74tfub?svg=true)](http://localhost/project/AppVeyor/testing-the-api-ci)
+[![Build status](https://ci.appveyor.com/api/projects/status/294wpuayr3v5y8g2?svg=true)](https://ci.appveyor.com/project/ByBychkova/testing-the-api-ci)
